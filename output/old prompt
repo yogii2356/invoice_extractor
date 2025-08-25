@@ -1,0 +1,70 @@
+   # Initialize prompt variable
+#     prompt = None
+
+#     if page_num == 1:
+#         # Full invoice prompt
+#         prompt = f"""
+# You are an invoice extraction assistant.
+# Extract the following fields in JSON format:
+# - invoice_number
+# - company_name
+# - seller_address
+# - seller_gstin
+# - buyer_name
+# - buyer_address
+# - buyer_gstin
+# - items (list with S.N., description, HSN/SAC, quantity, unit, list price, discount, amount)
+# - subtotal_before_gst
+# - cgst
+# - sgst
+# - total_gst
+# - total_amount_after_gst
+# - bank_details
+# - Taxable Amt 
+# - Tax RateCode (C+S)
+
+# Only return valid JSON. Do not return null fields. No markdown or explanation.
+
+# Invoice text:
+# {text}
+# """
+#     elif page_num and page_num > 1:
+#         # Items only prompt
+#         prompt = f"""
+# You are an invoice extraction assistant.
+# This is page {page_num} of a multi-page invoice. DO NOT repeat seller or buyer details.
+
+# Only extract the "items" list from this page. Expected JSON format:
+# [
+#   {{
+#     "S.N.": "...",
+#     "description": "...",
+#     "HSN/SAC": "...",
+#     "quantity": "...",
+#     "unit": "...",
+#     "list price": "...",
+#     "Discount": "...",
+#     "amount": "...",
+#     "Taxable Amt": "...",
+#     "Tax RateCode (C+S)": "..."
+#   }},
+#   ...
+# ]
+
+# Avoid null fields or duplicates.
+
+# Invoice text:
+# {text}
+# """
+#     else:
+#         print(f"❌ Skipping invalid page number: {page_num}")
+#         return ""
+
+#     for attempt in range(2):
+#         try:
+#             response = model.generate_content(prompt)
+#             return response.text
+#         except Exception as e:
+#             print("⚠️ Gemini error:", e)
+#             time.sleep(20)
+#     return ""

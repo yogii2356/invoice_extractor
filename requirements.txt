@@ -1,0 +1,6 @@
+pytesseract
+pdf2image
+Pillow
+pandas
+google-generativeai
+gradio

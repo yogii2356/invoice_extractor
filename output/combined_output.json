@@ -1,0 +1,336 @@
+{
+    "invoice_number": "2740178",
+    "company_name": "Harold Levinson Associates, LLC",
+    "seller_address": "21 Banfi Plaza, Farmingdale, NY 11735",
+    "buyer_name": "PB WOLF GROUP INC",
+    "buyer_address": "800 WOLF ST Syracuse NY 13208",
+    "items": [
+        {
+            "S.N.": 1,
+            "description of goods": "CAMEL CRUSH BOX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 16.29,
+            "price": 140.48,
+            "amount": 140.48
+        },
+        {
+            "S.N.": 2,
+            "description of goods": "CAMEL CRUSH REG 85 BOX MEN (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 16.29,
+            "price": 140.48,
+            "amount": 140.48
+        },
+        {
+            "S.N.": 3,
+            "description of goods": "CAMEL REG BLUE 85 BOX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 16.29,
+            "price": 140.48,
+            "amount": 140.48
+        },
+        {
+            "S.N.": 4,
+            "description of goods": "CAPRI MAGENTA 120 BOX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 20.39,
+            "price": 178.75,
+            "amount": 178.75
+        },
+        {
+            "S.N.": 5,
+            "description of goods": "MARLBORO BLACK MEN 100 BX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 15.69,
+            "price": 134.9,
+            "amount": 134.9
+        },
+        {
+            "S.N.": 6,
+            "description of goods": "MARLBORO KING BOX (NY)",
+            "quantity": 2,
+            "unit": "SU",
+            "list price": 16.19,
+            "price": 139.57,
+            "amount": 279.14
+        },
+        {
+            "S.N.": 7,
+            "description of goods": "MARLBORO SMOOTH 100'S BX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 16.59,
+            "price": 143.21,
+            "amount": 143.21
+        },
+        {
+            "S.N.": 8,
+            "description of goods": "MISTY BLUE 120 BOX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 18.19,
+            "price": 157.55,
+            "amount": 157.55
+        },
+        {
+            "S.N.": 9,
+            "description of goods": "NEWPORT SOFT 100 (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 16.29,
+            "price": 140.58,
+            "amount": 140.58
+        },
+        {
+            "S.N.": 10,
+            "description of goods": "PALL MALL BLUE 100 BOX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 15.59,
+            "price": 133.93,
+            "amount": 133.93
+        },
+        {
+            "S.N.": 11,
+            "description of goods": "SONOMA MEN DARK GREEN 100'S BOX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 12.59,
+            "price": 105.35,
+            "amount": 105.35
+        },
+        {
+            "S.N.": 12,
+            "description of goods": "PALL MALL SELECT MENTHOL 100 BX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 12.79,
+            "price": 107.05,
+            "amount": 107.05
+        },
+        {
+            "S.N.": 13,
+            "description of goods": "PALL MALL SELECT RED BX (NY)",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 12.79,
+            "price": 107.05,
+            "amount": 107.05
+        },
+        {
+            "S.N.": 14,
+            "description of goods": "ZYN CITRUS 3MG 5'",
+            "quantity": 2,
+            "unit": "SU",
+            "list price": 5.59,
+            "price": 22.37,
+            "amount": 44.74
+        },
+        {
+            "S.N.": 15,
+            "description of goods": "ZYN CITRUS 6MG 5'",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 5.59,
+            "price": 22.37,
+            "amount": 22.37
+        },
+        {
+            "S.N.": 16,
+            "description of goods": "ZYN COOL MINT 6MG 5'",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 5.59,
+            "price": 22.37,
+            "amount": 22.37
+        },
+        {
+            "S.N.": 17,
+            "description of goods": "ZONE POUCH 6MG WNTRGRN 5CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 4.79,
+            "price": 19.02,
+            "amount": 19.02
+        },
+        {
+            "S.N.": 18,
+            "description of goods": "ZONE POUCH 9MG MINT 5CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 4.79,
+            "price": 19.02,
+            "amount": 19.02
+        },
+        {
+            "S.N.": "2428699",
+            "description of goods": "ZONE POUCH 6MG DRGNFRUIT 5CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 23.95,
+            "price": 19.02,
+            "amount": 19.02
+        },
+        {
+            "S.N.": "2428700",
+            "description of goods": "ZONE POUCH 9MG DRGNFRUIT 5CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 23.95,
+            "price": 19.02,
+            "amount": 19.02
+        },
+        {
+            "S.N.": "6000864",
+            "description of goods": "NUTRAMENT CHOC 11OZ 12CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 0.0,
+            "price": 25.46,
+            "amount": 25.46
+        },
+        {
+            "S.N.": "6000868",
+            "description of goods": "NUTRAMENT MANGO 11OZ 12CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 0.0,
+            "price": 25.46,
+            "amount": 25.46
+        },
+        {
+            "S.N.": "3002059",
+            "description of goods": "I/B BOTTLE PEPPERMINT 4CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 19.56,
+            "price": 12.93,
+            "amount": 12.93
+        },
+        {
+            "S.N.": "3003780",
+            "description of goods": "SP M&M PLAIN PEG 5.3OZ",
+            "quantity": 3,
+            "unit": "SU",
+            "list price": 3.59,
+            "price": 2.33,
+            "amount": 6.99
+        },
+        {
+            "S.N.": "3003806",
+            "description of goods": "SP NERDS CLUSTERS ORIG 5OZ PEG",
+            "quantity": 3,
+            "unit": "SU",
+            "list price": 3.29,
+            "price": 2.17,
+            "amount": 6.51
+        },
+        {
+            "S.N.": "3004504",
+            "description of goods": "WERTHERS ORIGINAL 12CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 17.88,
+            "price": 11.43,
+            "amount": 11.43
+        },
+        {
+            "S.N.": "3005232",
+            "description of goods": "SOUR PUNCH BLUE RASPBERRY 24CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 30.96,
+            "price": 19.74,
+            "amount": 19.74
+        },
+        {
+            "S.N.": "3007500",
+            "description of goods": "SP NERDS CLUSTERS VERY BERRY 5OZ",
+            "quantity": 3,
+            "unit": "SU",
+            "list price": 3.29,
+            "price": 2.17,
+            "amount": 6.51
+        },
+        {
+            "S.N.": "3008742",
+            "description of goods": "TRIDENT SPEARMINT 14PC 12CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 20.28,
+            "price": 13.27,
+            "amount": 13.27
+        },
+        {
+            "S.N.": "3000017",
+            "description of goods": "7 DAYS CROISSANT DULCE DE LECHE 6CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 11.94,
+            "price": 8.35,
+            "amount": 8.35
+        },
+        {
+            "S.N.": "3007117",
+            "description of goods": "JJS BAKERY SNACK PIE CHOC 4OZ 12CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 19.08,
+            "price": 12.96,
+            "amount": 12.96
+        },
+        {
+            "S.N.": "3009226",
+            "description of goods": "HOSTESS DONETTES GLAZED STRAWBERRY 6CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 13.14,
+            "price": 9.06,
+            "amount": 9.06
+        },
+        {
+            "S.N.": "8000263",
+            "description of goods": "HOSTESS DONETTE GLAZED 10CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 21.9,
+            "price": 15.08,
+            "amount": 15.08
+        },
+        {
+            "S.N.": "8000270",
+            "description of goods": "HOSTESS HOHOS 3-PACK 6CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 13.14,
+            "price": 9.05,
+            "amount": 9.05
+        },
+        {
+            "S.N.": "8000287",
+            "description of goods": "HOSTESS SNOBALL 6CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 13.14,
+            "price": 9.05,
+            "amount": 9.05
+        },
+        {
+            "S.N.": "8002378",
+            "description of goods": "HOSTESS TWINKIES CHOC LVRS 6CT",
+            "quantity": 1,
+            "unit": "SU",
+            "list price": 13.14,
+            "price": 9.09,
+            "amount": 9.09
+        }
+    ],
+    "subtotal_before_gst": 2036.47,
+    "total_amount_after_gst": 2275.45,
+    "total_gst": 163.8
+}
